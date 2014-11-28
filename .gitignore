@@ -3,3 +3,4 @@ node_modules
 npm-debug.log
 *.iws
 *.ipr
+.DS_Store
